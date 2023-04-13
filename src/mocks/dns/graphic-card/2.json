@@ -1,0 +1,164 @@
+[
+  {
+    "model": "KFA2 GeForce 210",
+    "memorySize": "1 ГБ",
+    "memoryType": "GDDR3",
+    "powerUnit": "300 Вт",
+    "price": 2699,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/96b1191c66923332/videokarta-kfa2-geforce-210-21ggf4hi00nk/"
+  },
+  {
+    "model": "KFA2 GeForce GT 710",
+    "memorySize": "2 ГБ",
+    "memoryType": "GDDR3",
+    "powerUnit": "172 мм",
+    "price": 3199,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/975c271ba7781b80/videokarta-kfa2-geforce-gt-710-71gpf4hi00gk/"
+  },
+  {
+    "model": "MSI GeForce 210",
+    "memorySize": "1 ГБ",
+    "memoryType": "GDDR3",
+    "powerUnit": "активное воздушное",
+    "price": 3999,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/5a7b4c6d0bc3c823/videokarta-msi-geforce-210-n210-1gd3lp/"
+  },
+  {
+    "model": "Palit GeForce GT 710 Silent LP",
+    "memorySize": "2 ГБ",
+    "memoryType": "GDDR3",
+    "powerUnit": "нет",
+    "price": 4199,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/9fb53308083d3330/videokarta-palit-geforce-gt-710-silent-lp-neat7100hd46-2080h/"
+  },
+  {
+    "model": "KFA2 GeForce GT 730",
+    "memorySize": "4 ГБ",
+    "memoryType": "DDR3",
+    "powerUnit": "нет",
+    "price": 4299,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/7fbad6836ef1ed20/videokarta-kfa2-geforce-gt-730-73gqf8hx00hk/"
+  },
+  {
+    "model": "MSI GeForce GT 710 Silent LP",
+    "memorySize": "2 ГБ",
+    "memoryType": "GDDR3",
+    "powerUnit": "есть",
+    "price": 4399,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/4e2d2342ce283330/videokarta-msi-geforce-gt-710-silent-lp-gt-710-2gd3h-lp/"
+  },
+  {
+    "model": "PowerColor AMD Radeon R7 240",
+    "memorySize": "2 ГБ",
+    "memoryType": "GDDR5",
+    "powerUnit": "1 осевой",
+    "price": 4599,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/8c12d3e82d96ed20/videokarta-powercolor-amd-radeon-r7-240-axr7-240-2gbd5-hlev2/"
+  },
+  {
+    "model": "GIGABYTE GeForce GT 710 Silent LP",
+    "memorySize": "2 ГБ",
+    "memoryType": "GDDR5",
+    "powerUnit": "нет",
+    "price": 4799,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/70b6f17fc3653330/videokarta-gigabyte-geforce-gt-710-silent-lp-gv-n710d5sl-2gl/"
+  },
+  {
+    "model": "GIGABYTE GeForce GT 710 LP",
+    "memorySize": "2 ГБ",
+    "memoryType": "GDDR5",
+    "powerUnit": "активное воздушное",
+    "price": 4899,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/d03b607639273330/videokarta-gigabyte-geforce-gt-710-lp-gv-n710d5-2gl/"
+  },
+  {
+    "model": "MSI GeForce GT 730 Silent LP",
+    "memorySize": "2 ГБ",
+    "memoryType": "GDDR3",
+    "powerUnit": "нет",
+    "price": 5099,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/4e2d233dce283330/videokarta-msi-geforce-gt-730-silent-lp-n730k-2gd3hlp/"
+  },
+  {
+    "model": "MSI GeForce GT 730",
+    "memorySize": "2 ГБ",
+    "memoryType": "GDDR3",
+    "powerUnit": "300 Вт",
+    "price": 5199,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/debd0785ad353330/videokarta-msi-geforce-gt-730-n730-2gd3v3/"
+  },
+  {
+    "model": "GIGABYTE GeForce GT 710 LP D5",
+    "memorySize": "2 ГБ",
+    "memoryType": "GDDR5",
+    "powerUnit": "нет",
+    "price": 5299,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/9a003379891d3332/videokarta-gigabyte-geforce-gt-710-lp-d5-gv-n710d5-2gil/"
+  },
+  {
+    "model": "Palit GeForce GT 730 Silent LP",
+    "memorySize": "2 ГБ",
+    "memoryType": "GDDR3",
+    "powerUnit": "нет",
+    "price": 5299,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/73667432f7681b80/videokarta-palit-geforce-gt-730-silent-lp-neat7300hd46-2080h/"
+  },
+  {
+    "model": "GigaByte GeForce GT 730 LP",
+    "memorySize": "2 ГБ",
+    "memoryType": "GDDR5",
+    "powerUnit": "нет",
+    "price": 5899,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/e5fcb990de4e3330/videokarta-gigabyte-geforce-gt-730-lp-gv-n730d5-2gl/"
+  },
+  {
+    "model": "Palit GeForce GT 1030",
+    "memorySize": "2 ГБ",
+    "memoryType": "DDR4",
+    "powerUnit": "1 осевой",
+    "price": 5899,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/dffe1d266ba03330/videokarta-palit-geforce-gt-1030-nec103000646-1082f/"
+  },
+  {
+    "model": "[AXRX 550 2GBD5-HLEV2]",
+    "memorySize": "GDDR5",
+    "memoryType": "64 бит",
+    "powerUnit": "активное воздушное",
+    "price": 5999,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/48f5e3b94dc6ed20/videokarta-powercolor-amd-radeon-550-lp-axrx-550-2gbd5-hlev2/"
+  },
+  {
+    "model": "ASUS GeForce GT 730 Silent LP",
+    "memorySize": "2 ГБ",
+    "memoryType": "GDDR5",
+    "powerUnit": "нет",
+    "price": 6499,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/6aae0cdaa22f3361/videokarta-asus-geforce-gt-730-silent-lp-gt730-sl-2gd5-brk/"
+  },
+  {
+    "model": "[AXRX 550 2GBD5-HLE]",
+    "memorySize": "GDDR5",
+    "memoryType": "64 бит",
+    "powerUnit": "активное воздушное",
+    "price": 6499,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/7b6291e13ad5ed20/videokarta-powercolor-amd-radeon-rx-550-lp-axrx-550-2gbd5-hle/"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "model": "AMD A6-9500E",
+    "socket": "AM4",
+    "memoryType": "DDR4",
+    "price": 899,
+    "shopBrand": "DNS",
+    "message": "correct",
+    "href": "https://www.dns-shop.ru/product/790d362c7e3e3330/processor-amd-a6-9500e-oem/"
+  },
+  {
+    "model": "AMD PRO A6-8570",
+    "socket": "AM4",
+    "memoryType": "DDR4",
+    "price": 950,
+    "shopBrand": "DNS",
+    "message": "correct",
+    "href": "https://www.dns-shop.ru/product/1792bdac5c7bed20/processor-amd-pro-a6-8570-oem/"
+  },
+  {
+    "model": "AMD A6-9500",
+    "socket": "AM4",
+    "memoryType": "DDR4",
+    "price": 1399,
+    "shopBrand": "DNS",
+    "message": "correct",
+    "href": "https://www.dns-shop.ru/product/173b85a87e3e3330/processor-amd-a6-9500-oem/"
+  },
+  {
+    "model": "Вьетнам",
+    "socket": "Intel Pentium G4400",
+    "memoryType": "нет",
+    "price": 2599,
+    "shopBrand": "DNS",
+    "message": "error",
+    "href": "https://www.dns-shop.ru/product/8278307156913361/processor-intel-pentium-g4400-oem/"
+  },
+  {
+    "model": "Вьетнам",
+    "socket": "Intel Pentium G4400",
+    "memoryType": "нет",
+    "price": 2599,
+    "shopBrand": "DNS",
+    "message": "error",
+    "href": "https://www.dns-shop.ru/product/708dfb2a3b00ed20/processor-intel-pentium-g4400-oem/"
+  },
+  {
+    "model": "AMD FX-4300",
+    "socket": "AM3+",
+    "memoryType": "DDR3",
+    "price": 2899,
+    "shopBrand": "DNS",
+    "message": "correct",
+    "href": "https://www.dns-shop.ru/product/c3c60e33a1982ff1/processor-amd-fx-4300-box/"
+  },
+  {
+    "model": "Вьетнам",
+    "socket": "Intel Celeron G4900",
+    "memoryType": "нет",
+    "price": 3299,
+    "shopBrand": "DNS",
+    "message": "error",
+    "href": "https://www.dns-shop.ru/product/7dcfb2e93b06ed20/processor-intel-celeron-g4900-oem/"
+  },
+  {
+    "model": "AMD A8-9600",
+    "socket": "AM4",
+    "memoryType": "DDR4",
+    "price": 3999,
+    "shopBrand": "DNS",
+    "message": "correct",
+    "href": "https://www.dns-shop.ru/product/2cb44d0416f7ed20/processor-amd-a8-9600-oem/"
+  },
+  {
+    "model": "Вьетнам",
+    "socket": "Intel Celeron G6900",
+    "memoryType": "нет",
+    "price": 4499,
+    "shopBrand": "DNS",
+    "message": "error",
+    "href": "https://www.dns-shop.ru/product/11feba1312c4ed20/processor-intel-celeron-g6900-oem/"
+  },
+  {
+    "model": "Вьетнам",
+    "socket": "Intel Pentium Gold G5400",
+    "memoryType": "нет",
+    "price": 5399,
+    "shopBrand": "DNS",
+    "message": "error",
+    "href": "https://www.dns-shop.ru/product/93f30a8703e23330/processor-intel-pentium-gold-g5400-oem/"
+  },
+  {
+    "model": "AMD Athlon PRO 300GE",
+    "socket": "AM4",
+    "memoryType": "DDR4",
+    "price": 5699,
+    "shopBrand": "DNS",
+    "message": "correct",
+    "href": "https://www.dns-shop.ru/product/1394529e33d8ed20/processor-amd-athlon-pro-300ge-oem/"
+  },
+  {
+    "model": "AMD Ryzen 3 1200",
+    "socket": "AM4",
+    "memoryType": "64 ГБ",
+    "price": 5699,
+    "shopBrand": "DNS",
+    "message": "correct",
+    "href": "https://www.dns-shop.ru/product/1a997e6f1e9aed20/processor-amd-ryzen-3-1200-oem/"
+  },
+  {
+    "model": "Intel Celeron G6900",
+    "socket": "LGA 1700",
+    "memoryType": "DDR4, DDR5",
+    "price": 5799,
+    "shopBrand": "DNS",
+    "message": "error",
+    "href": "https://www.dns-shop.ru/product/8f6e9b320963ed20/processor-intel-celeron-g6900-box/"
+  },
+  {
+    "model": "Вьетнам",
+    "socket": "Intel Core i3-10100F",
+    "memoryType": "нет",
+    "price": 5999,
+    "shopBrand": "DNS",
+    "message": "error",
+    "href": "https://www.dns-shop.ru/product/aef26095fcc0ed20/processor-intel-core-i3-10100f-oem/"
+  },
+  {
+    "model": "Вьетнам",
+    "socket": "Intel Core i3-10105F",
+    "memoryType": "нет",
+    "price": 5999,
+    "shopBrand": "DNS",
+    "message": "error",
+    "href": "https://www.dns-shop.ru/product/905829c11769ed20/processor-intel-core-i3-10105f-oem/"
+  },
+  {
+    "model": "AMD Ryzen 3 4100",
+    "socket": "AM4",
+    "memoryType": "DDR4",
+    "price": 6999,
+    "shopBrand": "DNS",
+    "message": "correct",
+    "href": "https://www.dns-shop.ru/product/fa958f0daff2ed20/processor-amd-ryzen-3-4100-oem/"
+  },
+  {
+    "model": "Вьетнам",
+    "socket": "Intel Core i3-10100F",
+    "memoryType": "нет",
+    "price": 6999,
+    "shopBrand": "DNS",
+    "message": "error",
+    "href": "https://www.dns-shop.ru/product/6e569b0a0964ed20/processor-intel-core-i3-10100f-box/"
+  },
+  {
+    "model": "Вьетнам",
+    "socket": "Intel Core i3-10105F",
+    "memoryType": "нет",
+    "price": 6999,
+    "shopBrand": "DNS",
+    "message": "error",
+    "href": "https://www.dns-shop.ru/product/434660f10711ed20/processor-intel-core-i3-10105f-box/"
+  }
+]

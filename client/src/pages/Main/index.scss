@@ -1,0 +1,35 @@
+.pc-component {
+  background-color: white;
+  margin-top: 10px !important;
+  border-radius: 5px;
+  min-height: 60px;
+  &:hover{
+  box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+  }
+}
+
+.empty-data {
+  width: 570px;
+  .empty-line {
+    background-color: #eee;
+    height: 5px;
+    margin-bottom: 5px;
+    width: 75%;
+  }
+  .empty-line:nth-child(2n) {
+    width: 58%;
+  }
+}
+
+.title {
+  padding-left: 30px !important;
+  padding-top: 1.5%;
+}
+
+.modal-90w{
+  max-width: 70vw !important;
+}
+
+.power-svg{
+  margin: 17px 9px 9px 9px;
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "model": "Esonic G31CHL3",
+    "socket": "LGA 775",
+    "memoryType": "DDR2",
+    "price": 2999,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/90839af82020ed20/materinskaa-plata-esonic-g31chl3/"
+  },
+  {
+    "model": "Esonic G41CPL3",
+    "socket": "LGA 775",
+    "memoryType": "DDR3",
+    "price": 3199,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/df791f68eb2e3332/materinskaa-plata-esonic-g41cpl3/"
+  },
+  {
+    "model": "Esonic G41CRL3",
+    "socket": "LGA 775",
+    "memoryType": "DDR2",
+    "price": 3199,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/e1e7177feb2c3332/materinskaa-plata-esonic-g41crl3/"
+  },
+  {
+    "model": "AFOX IH55-MA6",
+    "socket": "210 мм",
+    "memoryType": "DDR3",
+    "price": 3299,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/2e9456106a91ea38/materinskaa-plata-afox-ih55-ma6/"
+  },
+  {
+    "model": "AFOX IG41-MA7",
+    "socket": "LGA 775",
+    "memoryType": "DDR3",
+    "price": 3899,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/26dadb805466ed20/materinskaa-plata-afox-ig41-ma7/"
+  },
+  {
+    "model": "AFOX A88-MA5",
+    "socket": "FM2+",
+    "memoryType": "DDR3",
+    "price": 3999,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/483567f05468ed20/materinskaa-plata-afox-a88-ma5/"
+  },
+  {
+    "model": "AFOX IH61-MA2-V3",
+    "socket": "LGA 1155",
+    "memoryType": "DDR3",
+    "price": 3999,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/3b05fb7a5467ed20/materinskaa-plata-afox-ih61-ma2-v3/"
+  },
+  {
+    "model": "ASRock H310CM-DVS",
+    "socket": "LGA 1151-v2",
+    "memoryType": "DDR4",
+    "price": 3999,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/b13b9e82a43c3330/materinskaa-plata-asrock-h310cm-dvs/"
+  },
+  {
+    "model": "Biostar A68MHE",
+    "socket": "FM2+",
+    "memoryType": "DDR3",
+    "price": 3999,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/c44cd149cc801b80/materinskaa-plata-biostar-a68mhe/"
+  },
+  {
+    "model": "Biostar A68N-2100K",
+    "socket": "BGA769",
+    "memoryType": "DDR3, DDR3L",
+    "price": 3999,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/81aa8be81b86ed20/materinskaa-plata-biostar-a68n-2100k/"
+  },
+  {
+    "model": "Esonic H61FHL",
+    "socket": "LGA 1155",
+    "memoryType": "DDR3",
+    "price": 3999,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/ab4214cc201eed20/materinskaa-plata-esonic-h61fhl/"
+  },
+  {
+    "model": "GIGABYTE H310M H",
+    "socket": "LGA 1151-v2",
+    "memoryType": "DDR4",
+    "price": 3999,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/b18967c620283330/materinskaa-plata-gigabyte-h310m-h/"
+  },
+  {
+    "model": "Mini-ITX",
+    "socket": "SoC (система на кристалле)",
+    "memoryType": "DDR4",
+    "price": 4499,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/32e9a4835e53ed20/materinskaa-plata-elitegroup-glkd-i2-n4020/"
+  },
+  {
+    "model": "Esonic H81JEL",
+    "socket": "LGA 1150",
+    "memoryType": "DDR3",
+    "price": 4499,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/8dd059eac8c32ff2/materinskaa-plata-esonic-h81jel/"
+  },
+  {
+    "model": "MSI H310M PRO-VDH",
+    "socket": "LGA 1151-v2",
+    "memoryType": "DDR4",
+    "price": 4499,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/36615b672d6e3330/materinskaa-plata-msi-h310m-pro-vdh/"
+  },
+  {
+    "model": "Biostar H510MHP 2.0",
+    "socket": "LGA 1200",
+    "memoryType": "DDR4",
+    "price": 4799,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/2198c4035205ed20/materinskaa-plata-biostar-h510mhp-20/"
+  },
+  {
+    "model": "AFOX A780S-MA3",
+    "socket": "AM3+",
+    "memoryType": "DDR3",
+    "price": 4999,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/bc24868a5467ed20/materinskaa-plata-afox-a780s-ma3/"
+  },
+  {
+    "model": "ASRock H510M-HVS R2.0",
+    "socket": "LGA 1200",
+    "memoryType": "DDR4",
+    "price": 4999,
+    "shopBrand": "DNS",
+    "href": "https://www.dns-shop.ru/product/04f7286ee8712ff2/materinskaa-plata-asrock-h510m-hvs-r20/"
+  }
+]
