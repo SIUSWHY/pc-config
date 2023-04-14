@@ -1,0 +1,40 @@
+.loader {
+  width: 5rem !important;
+  height: 5rem !important;
+  left: 0;
+  right: 0;
+  position: relative;
+  margin: 20rem 45%;
+}
+
+.body-size {
+  max-height: 85vh;
+  overflow-y: auto;
+}
+
+a {
+  color: var(--bs-dark) !important;
+  text-decoration: none !important;
+  &:hover {
+    color: var(--bs-green) !important;
+  }
+}
+
+.item {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  &:hover{
+    background-color: aliceblue;
+  }
+}
+
+.info-block {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: unset;
+  justify-content: space-between;
+}
+
+.icon-size {
+  width: 140px;
+}

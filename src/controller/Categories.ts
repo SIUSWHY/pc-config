@@ -1,6 +1,7 @@
+import { Request, Response } from 'express';
 import sleep from '../helpers/sleep';
 
-const allCategories = async function (req: any, res: any) {
+const allCategories = async function (req: Request, res: Response) {
   try {
     const categories = [
       { title: 'Processor', icon: 'http://localhost:10000/categories/proc.svg' },
@@ -16,5 +17,6 @@ const allCategories = async function (req: any, res: any) {
     console.error(err);
   }
 };
+
 
 export default { allCategories };

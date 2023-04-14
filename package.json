@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npm install --also=dev && tsc",
-    "dev": "nodemon src/index.ts --ignore '*.json'",
+    "dev": "nodemon src/index.ts --ignore '*.json, client/'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

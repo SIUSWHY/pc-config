@@ -27,8 +27,8 @@
     "href": "https://www.dns-shop.ru/product/173b85a87e3e3330/processor-amd-a6-9500-oem/"
   },
   {
-    "model": "Вьетнам",
-    "socket": "Intel Pentium G4400",
+    "model": "Intel Pentium G4400",
+    "socket": "LGA 1151",
     "memoryType": "нет",
     "price": 2599,
     "shopBrand": "DNS",
@@ -36,8 +36,8 @@
     "href": "https://www.dns-shop.ru/product/8278307156913361/processor-intel-pentium-g4400-oem/"
   },
   {
-    "model": "Вьетнам",
-    "socket": "Intel Pentium G4400",
+    "model": "Intel Pentium G4400",
+    "socket": "LGA 1151",
     "memoryType": "нет",
     "price": 2599,
     "shopBrand": "DNS",
@@ -54,8 +54,8 @@
     "href": "https://www.dns-shop.ru/product/c3c60e33a1982ff1/processor-amd-fx-4300-box/"
   },
   {
-    "model": "Вьетнам",
-    "socket": "Intel Celeron G4900",
+    "model": "Intel Celeron G4900",
+    "socket": "LGA 1151-v2",
     "memoryType": "нет",
     "price": 3299,
     "shopBrand": "DNS",
@@ -72,8 +72,8 @@
     "href": "https://www.dns-shop.ru/product/2cb44d0416f7ed20/processor-amd-a8-9600-oem/"
   },
   {
-    "model": "Вьетнам",
-    "socket": "Intel Celeron G6900",
+    "model": "Intel Celeron G6900",
+    "socket": "LGA 1700",
     "memoryType": "нет",
     "price": 4499,
     "shopBrand": "DNS",
@@ -81,8 +81,8 @@
     "href": "https://www.dns-shop.ru/product/11feba1312c4ed20/processor-intel-celeron-g6900-oem/"
   },
   {
-    "model": "Вьетнам",
-    "socket": "Intel Pentium Gold G5400",
+    "model": "Intel Pentium Gold G5400",
+    "socket": "LGA 1151-v2",
     "memoryType": "нет",
     "price": 5399,
     "shopBrand": "DNS",
@@ -117,8 +117,8 @@
     "href": "https://www.dns-shop.ru/product/8f6e9b320963ed20/processor-intel-celeron-g6900-box/"
   },
   {
-    "model": "Вьетнам",
-    "socket": "Intel Core i3-10100F",
+    "model": "Intel Core i3-10100F",
+    "socket": "LGA 1200",
     "memoryType": "нет",
     "price": 5999,
     "shopBrand": "DNS",
@@ -126,8 +126,8 @@
     "href": "https://www.dns-shop.ru/product/aef26095fcc0ed20/processor-intel-core-i3-10100f-oem/"
   },
   {
-    "model": "Вьетнам",
-    "socket": "Intel Core i3-10105F",
+    "model": "Intel Core i3-10105F",
+    "socket": "LGA 1200",
     "memoryType": "нет",
     "price": 5999,
     "shopBrand": "DNS",
@@ -144,8 +144,8 @@
     "href": "https://www.dns-shop.ru/product/fa958f0daff2ed20/processor-amd-ryzen-3-4100-oem/"
   },
   {
-    "model": "Вьетнам",
-    "socket": "Intel Core i3-10100F",
+    "model": "Intel Core i3-10100F",
+    "socket": "LGA 1200",
     "memoryType": "нет",
     "price": 6999,
     "shopBrand": "DNS",
@@ -153,8 +153,8 @@
     "href": "https://www.dns-shop.ru/product/6e569b0a0964ed20/processor-intel-core-i3-10100f-box/"
   },
   {
-    "model": "Вьетнам",
-    "socket": "Intel Core i3-10105F",
+    "model": "Intel Core i3-10105F",
+    "socket": "LGA 1200",
     "memoryType": "нет",
     "price": 6999,
     "shopBrand": "DNS",

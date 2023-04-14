@@ -1,15 +1,21 @@
 .pc-component {
   background-color: white;
-  margin-top: 10px !important;
+  margin-top: 15px !important;
   border-radius: 5px;
   min-height: 60px;
-  &:hover{
-  box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+  &:hover {
+    cursor: pointer;
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
   }
 }
 
+.btn-align{
+  text-align: end;
+  padding-right: 30px !important;
+}
+
 .empty-data {
-  width: 570px;
+  width: 800px;
   .empty-line {
     background-color: #eee;
     height: 5px;
@@ -26,10 +32,20 @@
   padding-top: 1.5%;
 }
 
-.modal-90w{
+.modal-90w {
   max-width: 70vw !important;
 }
+.icon {
+  display: inline-flex;
+  align-items: center;
+}
 
-.power-svg{
-  margin: 17px 9px 9px 9px;
+.loader{
+  width: 5rem !important;
+  height: 5rem !important;
+  left: 0;
+  right: 0;
+  margin: 40vh auto;
+
+  position: absolute;
 }
