@@ -9,7 +9,7 @@
   }
 }
 
-.btn-align{
+.btn-align {
   text-align: end;
   padding-right: 30px !important;
 }
@@ -38,14 +38,18 @@
 .icon {
   display: inline-flex;
   align-items: center;
+  width: fit-content;
 }
 
-.loader{
+.loader {
   width: 5rem !important;
   height: 5rem !important;
   left: 0;
   right: 0;
   margin: 40vh auto;
-
   position: absolute;
+}
+.icon-block {
+  display: flex;
+  justify-content: center;
 }

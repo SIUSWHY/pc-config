@@ -1,12 +1,17 @@
-import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.scss';
 import reportWebVitals from './reportWebVitals';
 import Main from './pages/Main/index';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Provider } from 'react-redux';
+import { store } from './store/index';
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
-root.render(<Main />);
+root.render(
+  <Provider store={store}>
+    <Main />
+  </Provider>
+);
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

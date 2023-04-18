@@ -1,31 +1,25 @@
 import { useEffect, useState } from 'react';
 import { Button, Col, Modal, Row, Spinner } from 'react-bootstrap';
-import { ItemType } from '../../types/categories';
-import getItemsByCategory from '../../API/getItemsByCategory';
 import './index.scss';
+import { useDispatch, useSelector } from 'react-redux';
+import { AppDispatch, RootAppState } from '../../store';
+import { ProductActions } from '../../store/main/actions/poducts';
 
-function Product(prop: { show: boolean; category: string; onHide: () => void }) {
-  const { show, category, onHide } = prop;
+function Product(prop: { category: string; onHide: () => void }) {
+  const { category, onHide } = prop;
+  const dispatch = useDispatch<AppDispatch>();
+  const { products, loaders } = useSelector((state: RootAppState) => state.app);
 
-  const [productList, setProductList] = useState<ItemType[]>([]);
-  const [isLoading, setLoading] = useState(true);
+  const loadProductList = async () => {
+    dispatch(ProductActions.getProductsByCategory(category.toLowerCase()));
+  };
 
   useEffect(() => {
-    setLoading(true);
-    setProductList([]);
-
-    const loadProductList = async () => {
-      const _products = await getItemsByCategory(category.toLowerCase());
-
-      setProductList(_products);
-      setLoading(false);
-    };
-
     loadProductList();
   }, [category]);
 
   function ProductList() {
-    const list = productList.map((element, index) => {
+    const list = products.map((element, index) => {
       return (
         <Row className="item" key={index}>
           <Col xs={2}>
@@ -55,13 +49,13 @@ function Product(prop: { show: boolean; category: string; onHide: () => void }) 
   }
 
   return (
-    <Modal show={show} onHide={onHide} dialogClassName="modal-90w" aria-labelledby="example-custom-modal-styling-title">
+    <Modal show={true} onHide={onHide} dialogClassName="modal-90w" aria-labelledby="example-custom-modal-styling-title">
       <Modal.Header closeButton>
         <Modal.Title id="example-custom-modal-styling-title">{category}</Modal.Title>
       </Modal.Header>
       <Modal.Body className="body-size">
-        {isLoading && <Spinner className="loader" animation="border" variant="success" />}
-        {ProductList()}
+        {loaders['products'] && <Spinner className="loader" animation="border" variant="success" />}
+        {!loaders['products'] && ProductList()}
       </Modal.Body>
     </Modal>
   );
